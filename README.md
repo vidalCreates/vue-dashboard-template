@@ -1,4 +1,4 @@
-# attendr-client
+# vue-dashboard-template
 
 ## Project setup
 ```
